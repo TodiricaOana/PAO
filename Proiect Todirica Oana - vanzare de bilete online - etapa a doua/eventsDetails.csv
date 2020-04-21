@@ -1,0 +1,6 @@
+Id, Event id, Location id, Date, Category
+1, 1, 1, 12.05.2020, Concert
+2, 2, 2, 18.06.2020, Concert
+3, 3, 3, 28.06.2020, Concert
+4, 4, 4, 24.05.2020, Stand-up
+5, 6, 6, 18.12.2020, Theatre
